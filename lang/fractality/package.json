@@ -1,0 +1,25 @@
+{
+  "name": "fractality",
+  "displayName": "fractality",
+  "description": "fractality language support",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "fractality",
+      "aliases": ["fractality", "fractality"],
+      "extensions": ["fractal"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "fractality",
+      "scopeName": "source.fractality",
+      "path": "./syntaxes/fractality.tmLanguage.json"
+    }]
+  }
+}
