@@ -14,7 +14,11 @@
       "id": "fractality",
       "aliases": ["fractality", "fractality"],
       "extensions": ["fractal"],
-      "configuration": "./language-configuration.json"
+      "configuration": "./language-configuration.json",
+      "icon": {
+        "light": "./icons/language_16x_icon_black.svg",
+        "dark": "./icons/language_16x_icon_white.svg"
+      }
     }],
     "grammars": [{
       "language": "fractality",
