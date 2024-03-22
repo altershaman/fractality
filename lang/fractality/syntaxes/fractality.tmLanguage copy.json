@@ -20,8 +20,8 @@
 		},
 		"keyword": {
 			"patterns": [
-				{"include": "#control"},
-				{"include": "#operator"}
+				{"include": "control"},
+				{"include": "operator"}
 			]
 		},
 		"control": {
@@ -29,7 +29,7 @@
 			"match": "^([@?%])"
 		},
 		"operator": {
-			"name":  "keyword.operator.fractality",
+			"name":  "keyword.control.fractality",
 			"match": "\\s{1,}(\\.|:{1,2})"
 		},
 
@@ -38,6 +38,12 @@
 			"match": "^([^\\s\\.#:?@%<>]*)"
 		},
 
+		"keywords": {
+			"patterns": [{
+				"name": "keyword.control.fractality",
+				"match": "\\b(if|while|for|return)\\b"
+			}]
+		},
 		"strings": {
 			"name": "string.quoted.double.fractality",
 			"begin": "\"",

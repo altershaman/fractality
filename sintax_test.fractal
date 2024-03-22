@@ -1,0 +1,40 @@
+############### COMMENTS TESTS 
+
+# Start 'Developer: Inspect Editor Tokens and Scopes' command
+# Position cursor before '#' (pound or number sign) or any place after it within the same line
+# Check 'texmate scopes' 
+
+
+
+#single line comment MUST be scoped as comment.line.fractality
+# single line comment MUST be scoped as comment.line.fractality
+    # single line comment MUST be scoped as comment.line.fractality
+
+# todo comments toggling doesn't work
+
+
+object_1 # inline comment preceded with one or more white spaces MUST be scoped as comment.line.fractality
+object_2     # inline comment preceded with one or more white spaces MUST be scoped as comment.line.fractality
+
+object_3# inline comment which is not preceded with any white space(s) MUST NOT be scoped as comment.line.fractality
+
+################## END of COMMENTS TESTS
+
+
+
+
+
+################## OBJECTS TESTS
+
+object_4
+ object_6
+ .object_7
+ :object_8
+ ::object_9
+#object_5
+@object_10
+?object_11
+%object_12
+<object_13
+>object_14
+################## END of OBJECTS TESTS
