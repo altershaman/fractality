@@ -1,0 +1,84 @@
+<mxfile host="65bd71144e">
+    <diagram id="4xXVIJ9uZfVqVAKUXRQR" name="Page-1">
+        <mxGraphModel dx="1704" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="26" value="BB (Bounded Belief)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;arcSize=2;fontStyle=1;fontSize=18;opacity=80;" parent="1" vertex="1">
+                    <mxGeometry x="-2" y="-210" width="850" height="940" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;C.D : A.B&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;the same as&lt;/font&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;nbsp;D.C : B.A&lt;br&gt;&lt;/font&gt;&lt;/b&gt;canonical form&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mirroring form&lt;br&gt;JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;arcSize=4;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="-20" width="810" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=diamondThin;endFill=0;fontColor=#333333;strokeColor=#333333;labelBackgroundColor=none;endSize=10;" parent="1" source="5" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;b&gt;declaration&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=none;fillStyle=dots;strokeColor=#333333;fontColor=#333333;arcSize=5;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="161" width="510" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="directed relation" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=box;endFill=0;strokeColor=#333333;fontColor=#333333;labelBackgroundColor=#E6E6E6;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry x="-0.0462" y="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Concept C" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=none;fontColor=#333333;arcSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="258" y="181" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Concept D" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=none;fontColor=#333333;arcSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="492" y="181" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;b&gt;abstraction&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=none;strokeColor=#333333;fontColor=#333333;fillStyle=dots;arcSize=5;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="4" width="510" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;endArrow=box;endFill=0;" parent="1" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="379" y="54" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="Concept A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;fontColor=#333333;arcSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="253" y="24" width="123" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Concept B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;fontColor=#333333;arcSize=8;" parent="1" vertex="1">
+                    <mxGeometry x="494" y="24" width="123" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="547" width="810" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="directed relation" style="edgeStyle=none;html=1;startArrow=oval;startFill=1;endArrow=box;endFill=0;strokeColor=#333333;fontColor=#333333;labelBackgroundColor=#E6E6E6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8" target="9" edge="1">
+                    <mxGeometry x="-0.0462" y="10" relative="1" as="geometry">
+                        <mxPoint x="378" y="-96.00000000000001" as="sourcePoint"/>
+                        <mxPoint x="492" y="-96.00000000000001" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="648" width="810" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;...&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=dots;strokeColor=none;fontColor=#666666;fillColor=none;align=center;horizontal=1;" parent="1" vertex="1">
+                    <mxGeometry x="196" y="584" width="454" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;yin.yang : yin.yang&lt;/font&gt;&lt;/b&gt;&lt;br&gt;root JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="-200" width="810" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;...&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillStyle=dots;strokeColor=none;fontColor=#666666;fillColor=none;align=center;horizontal=1;" parent="1" vertex="1">
+                    <mxGeometry x="196" y="-83" width="454" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;A.B : yin.yang&lt;/font&gt;&lt;/b&gt;&lt;br&gt;JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="-120" width="810" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;E.F : A.B&lt;/font&gt;&lt;/b&gt;&lt;br&gt;JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="19" y="382" width="810" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;!G.H : C.D&lt;/font&gt;&lt;/b&gt;&lt;br&gt;negated JUDGMENT" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="466" width="810" height="63" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Upward (LR) reading: &lt;b&gt;declaration&lt;/b&gt;&amp;nbsp;exemlifiers abstraction" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=none;fillStyle=dots;strokeColor=none;fontColor=#333333;arcSize=5;" parent="1" vertex="1">
+                    <mxGeometry x="196" y="121" width="230" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Downward (RL) reading: &lt;b&gt;abstraction&lt;/b&gt;&amp;nbsp;generalizes declaration" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#333333;fillStyle=dots;arcSize=5;" parent="1" vertex="1">
+                    <mxGeometry x="453" y="116" width="215" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

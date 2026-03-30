@@ -1,0 +1,61 @@
+<mxfile host="65bd71144e">
+    <diagram id="T31XB4uNl74AcXpWvgCV" name="Page-1">
+        <mxGraphModel dx="2403" dy="3573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="33" value="Fractality Framework" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;arcSize=2;fontStyle=1;fontSize=18;opacity=80;" parent="1" vertex="1">
+                    <mxGeometry x="-2" y="-1190" width="850" height="1050" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="COGNITION" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;arcSize=4;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="-710" width="810" height="245" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="FOUNDATION" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;arcSize=4;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="-455" width="810" height="239" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Knowledge Anatomy&lt;/font&gt;&lt;/b&gt;&lt;br&gt;judgments, BB" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="-372" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Philosophy&lt;/font&gt;&lt;/b&gt;&lt;br&gt;how we know" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="-302" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;BB Structure&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;well formed knowledge&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="-624" width="385" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Cognitive acts&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;judgments operations&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="-554" width="535" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;COMMUNICATION&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;arcSize=4;fontSize=11;fontStyle=0" parent="1" vertex="1">
+                    <mxGeometry x="10" y="-960" width="810" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="implementation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;arcSize=4;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="-1161" width="810" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;ff&lt;/font&gt;&lt;/b&gt;&lt;br&gt;utility" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="-1071" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Surfaces&lt;/font&gt;&lt;/b&gt;&lt;br&gt;extension mechanism" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="-1141" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;abstractlang&lt;/font&gt;&lt;/b&gt;&lt;br&gt;core syntax" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="-440" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;BB Semantic (TBD)&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;meaningful knowledge&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="-624" width="385" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Concepts mutations&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;editing &amp;amp; versioning&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="-554" width="234" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Knowledge sharing&lt;/font&gt;&lt;/b&gt;&lt;br&gt;inter-personal exchange" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="-802" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;br&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;abstractlang&lt;br&gt;&lt;/b&gt;&lt;/span&gt;queries" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="-695" width="780" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Consensus&lt;/font&gt;&lt;/b&gt;&lt;br&gt;public manifestation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#E6E6E6;fontColor=#4D4D4D;strokeColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="-870" width="780" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
